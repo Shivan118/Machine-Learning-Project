@@ -1,0 +1,4 @@
+git init
+git add .
+git commit -am "make it better"
+git config --global user.email
